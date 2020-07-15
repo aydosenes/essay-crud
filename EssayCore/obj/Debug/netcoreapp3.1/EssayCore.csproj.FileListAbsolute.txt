@@ -1,0 +1,9 @@
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayCore\bin\Debug\netcoreapp3.1\EssayCore.deps.json
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayCore\bin\Debug\netcoreapp3.1\EssayCore.dll
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayCore\obj\Debug\netcoreapp3.1\EssayCore.csprojAssemblyReference.cache
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayCore\obj\Debug\netcoreapp3.1\EssayCore.AssemblyInfoInputs.cache
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayCore\obj\Debug\netcoreapp3.1\EssayCore.AssemblyInfo.cs
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayCore\bin\Debug\netcoreapp3.1\EssayCore.pdb
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayCore\obj\Debug\netcoreapp3.1\EssayCore.csproj.CoreCompileInputs.cache
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayCore\obj\Debug\netcoreapp3.1\EssayCore.dll
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayCore\obj\Debug\netcoreapp3.1\EssayCore.pdb

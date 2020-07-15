@@ -1,0 +1,16 @@
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayBusiness\bin\Debug\netcoreapp3.1\EssayCore.dll
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayBusiness\bin\Debug\netcoreapp3.1\EssayData.dll
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayBusiness\bin\Debug\netcoreapp3.1\EssayService.dll
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayBusiness\obj\Debug\netcoreapp3.1\EssayBusiness.csprojAssemblyReference.cache
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayBusiness\obj\Debug\netcoreapp3.1\EssayBusiness.AssemblyInfoInputs.cache
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayBusiness\obj\Debug\netcoreapp3.1\EssayBusiness.AssemblyInfo.cs
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayBusiness\bin\Debug\netcoreapp3.1\EssayBusiness.deps.json
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayBusiness\bin\Debug\netcoreapp3.1\EssayBusiness.dll
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayBusiness\bin\Debug\netcoreapp3.1\EssayBusiness.pdb
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayBusiness\bin\Debug\netcoreapp3.1\EssayCore.pdb
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayBusiness\bin\Debug\netcoreapp3.1\EssayData.pdb
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayBusiness\bin\Debug\netcoreapp3.1\EssayService.pdb
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayBusiness\obj\Debug\netcoreapp3.1\EssayBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayBusiness\obj\Debug\netcoreapp3.1\EssayBusiness.csproj.CopyComplete
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayBusiness\obj\Debug\netcoreapp3.1\EssayBusiness.dll
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayBusiness\obj\Debug\netcoreapp3.1\EssayBusiness.pdb

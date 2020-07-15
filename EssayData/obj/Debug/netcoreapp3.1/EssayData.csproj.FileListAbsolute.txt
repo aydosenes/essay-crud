@@ -1,0 +1,15 @@
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayData\bin\Debug\netcoreapp3.1\EssayCore.dll
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayData\obj\Debug\netcoreapp3.1\EssayData.csprojAssemblyReference.cache
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayData\obj\Debug\netcoreapp3.1\EssayData.AssemblyInfoInputs.cache
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayData\obj\Debug\netcoreapp3.1\EssayData.AssemblyInfo.cs
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayData\bin\Debug\netcoreapp3.1\EssayData.deps.json
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayData\bin\Debug\netcoreapp3.1\EssayData.runtimeconfig.json
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayData\bin\Debug\netcoreapp3.1\EssayData.runtimeconfig.dev.json
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayData\bin\Debug\netcoreapp3.1\EssayData.dll
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayData\bin\Debug\netcoreapp3.1\EssayData.pdb
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayData\bin\Debug\netcoreapp3.1\EssayCore.pdb
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayData\obj\Debug\netcoreapp3.1\EssayData.csproj.CoreCompileInputs.cache
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayData\obj\Debug\netcoreapp3.1\EssayData.csproj.CopyComplete
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayData\obj\Debug\netcoreapp3.1\EssayData.dll
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayData\obj\Debug\netcoreapp3.1\EssayData.pdb
+C:\Users\Enes Aydos\Desktop\EssayApplication\EssayData\obj\Debug\netcoreapp3.1\EssayData.genruntimeconfig.cache
