@@ -19,4 +19,5 @@ MongoDb (Robo 3T)
 *EntityFramework Core
 *N-Tier Architecture
 
-info: I am experienced in all these technologies. If I had more time to do, I would use JWT Authentication, Data Protection, Microservices and Docker.
+info: I am experienced in all these technologies. If I had more time to do,</br>
+I would use JWT Authentication, Data Protection, Microservices and Docker.
